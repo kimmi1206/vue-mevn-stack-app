@@ -1,0 +1,36 @@
+{
+  "name": "vue-mevn-stack-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "axios": "^0.22.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.1.2",
+    "core-js": "^3.6.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "mongoose": "^6.0.9",
+    "nodemon": "^2.0.13",
+    "popper.js": "^1.16.1",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2"
+  },
+  "_id": "vue-mevn-stack-app@0.1.0",
+  "readme": "ERROR: No README data found!"
+}
